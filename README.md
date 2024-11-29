@@ -1,9 +1,13 @@
 **Object Detection WebApp**
 
 This project implements an **object detection application** using PyTorch's **Faster R-CNN with ResNet-50 FPN** as the detection model. It is wrapped in a user-friendly **Streamlit** interface for easy image uploads and visualization of detection results.
+![1](https://github.com/user-attachments/assets/312fe61e-ec18-4d4a-8f7a-a3414d60ff9c)
+![2](https://github.com/user-attachments/assets/cd50ef73-a63f-4dee-9312-fb6b47b4c2f4)
 
+![3](https://github.com/user-attachments/assets/ef8e49ac-24eb-42d3-99bc-164a7bc7ad27)
 
-## Features  
+## Features 
+
 - Detects objects in images using **Faster R-CNN pretrained on the COCO dataset**.  
 - Displays bounding boxes and labels on detected objects.  
 - **Streamlit dashboard** for uploading images and viewing predictions.  
