@@ -3,8 +3,6 @@
 This project implements an **object detection application** using PyTorch's **Faster R-CNN with ResNet-50 FPN** as the detection model. It is wrapped in a user-friendly **Streamlit** interface for easy image uploads and visualization of detection results.
 
 
-
-
 ## Features  
 - Detects objects in images using **Faster R-CNN pretrained on the COCO dataset**.  
 - Displays bounding boxes and labels on detected objects.  
