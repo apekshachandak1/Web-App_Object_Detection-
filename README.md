@@ -110,9 +110,4 @@ The project requires the following Python packages:
 - Streamlit for UI: [Streamlit](https://streamlit.io/)  
 
 
-## License  
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
-
 Let me know if you’d like to customize this further! 😊
